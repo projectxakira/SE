@@ -1,0 +1,36 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Layla",
+      "skins": [
+        {
+          "id": 101,
+          "name": "Layla - Cosmic Angel",
+          "image_url": "https://example.com/images/layla_cosmic_angel.png"
+        },
+        {
+          "id": 102,
+          "name": "Layla - Cybernetic",
+          "image_url": "https://example.com/images/layla_cybernetic.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Alucard",
+      "skins": [
+        {
+          "id": 201,
+          "name": "Alucard - Vampire Lord",
+          "image_url": "https://example.com/images/alucard_vampire_lord.png"
+        },
+        {
+          "id": 202,
+          "name": "Alucard - Dark Knight",
+          "image_url": "https://example.com/images/alucard_dark_knight.png"
+        }
+      ]
+    }
+  ]
+}
