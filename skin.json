@@ -79,6 +79,38 @@
           "image_url": "https://example.com/images/lancelot_cyber_assassin.png"
         }
       ]
+    },
+    {
+      "id": 6,
+      "name": "Miya",
+      "skins": [
+        {
+          "id": 601,
+          "name": "Miya - Moonlight Huntress",
+          "image_url": "https://example.com/images/miya_moonlight_huntress.png"
+        },
+        {
+          "id": 602,
+          "name": "Miya - Cyber Hunter",
+          "image_url": "https://example.com/images/miya_cyber_hunter.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Karina",
+      "skins": [
+        {
+          "id": 701,
+          "name": "Karina - Shadow Princess",
+          "image_url": "https://example.com/images/karina_shadow_princess.png"
+        },
+        {
+          "id": 702,
+          "name": "Karina - Dark Angel",
+          "image_url": "https://example.com/images/karina_dark_angel.png"
+        }
+      ]
     }
   ]
 }
