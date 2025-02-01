@@ -2,113 +2,16 @@
   "heroes": [
     {
       "id": 1,
-      "name": "Layla",
-      "skins": [
-        {
-          "id": 101,
-          "name": "Layla - Cosmic Angel",
-          "image_url": "https://static.zerochan.net/Layla.%28Mobile.Legends%3A.Bang.Bang%21%29.full.3423340.jpg"
-        },
-        {
-          "id": 102,
-          "name": "Layla - Cybernetic",
-          "image_url": "https://example.com/images/layla_cybernetic.png"
-        }
-      ]
-    },
-    {
-      "id": 2,
       "name": "Alucard",
+      "image": "https://example.com/alucard.jpg",
+      "role": "Fighter",
       "skins": [
         {
-          "id": 201,
-          "name": "Alucard - Vampire Lord",
-          "image_url": "https://example.com/images/alucard_vampire_lord.png"
-        },
-        {
-          "id": 202,
-          "name": "Alucard - Dark Knight",
-          "image_url": "https://example.com/images/alucard_dark_knight.png"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Aldous",
-      "skins": [
-        {
-          "id": 301,
-          "name": "Aldous - Soul Hunter",
-          "image_url": "https://example.com/images/aldous_soul_hunter.png"
-        },
-        {
-          "id": 302,
-          "name": "Aldous - The Invincible",
-          "image_url": "https://example.com/images/aldous_invincible.png"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Esmeralda",
-      "skins": [
-        {
-          "id": 401,
-          "name": "Esmeralda - Winter Hunter",
-          "image_url": "https://example.com/images/esmeralda_winter_hunter.png"
-        },
-        {
-          "id": 402,
-          "name": "Esmeralda - Stardust Knight",
-          "image_url": "https://example.com/images/esmeralda_stardust_knight.png"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Lancelot",
-      "skins": [
-        {
-          "id": 501,
-          "name": "Lancelot - Fencing Master",
-          "image_url": "https://example.com/images/lancelot_fencing_master.png"
-        },
-        {
-          "id": 502,
-          "name": "Lancelot - Cyber Assassin",
-          "image_url": "https://example.com/images/lancelot_cyber_assassin.png"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Miya",
-      "skins": [
-        {
-          "id": 601,
-          "name": "Miya - Moonlight Huntress",
-          "image_url": "https://example.com/images/miya_moonlight_huntress.png"
-        },
-        {
-          "id": 602,
-          "name": "Miya - Cyber Hunter",
-          "image_url": "https://example.com/images/miya_cyber_hunter.png"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Karina",
-      "skins": [
-        {
-          "id": 701,
-          "name": "Karina - Shadow Princess",
-          "image_url": "https://example.com/images/karina_shadow_princess.png"
-        },
-        {
-          "id": 702,
-          "name": "Karina - Dark Angel",
-          "image_url": "https://example.com/images/karina_dark_angel.png"
+          "id": 1,
+          "name": "Obsidian Blade",
+          "image": "https://example.com/alucard-skin1.jpg",
+          "downloadUrl": "https://example.com/download/skin1.zip",
+          "previewUrl": "https://example.com/preview/skin1.jpg"
         }
       ]
     }
