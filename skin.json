@@ -1,16 +1,16 @@
 [
   {
-    "id": "ml001",
-    "name": "Dragon Tamer",
-    "hero": "Zilong",
-    "scriptUrl": "https://raw.githubusercontent.com/yourusername/repo/main/scripts/zilong_dragon.zip",
-    "previewUrl": "https://raw.githubusercontent.com/yourusername/repo/main/previews/zilong_dragon.jpg"
-  },
-  {
-    "id": "ml002",
-    "name": "Starlight Queen",
-    "hero": "Kagura",
-    "scriptUrl": "https://raw.githubusercontent.com/yourusername/repo/main/scripts/kagura_starlight.zip",
-    "previewUrl": "https://raw.githubusercontent.com/yourusername/repo/main/previews/kagura_starlight.jpg"
+    "id": 1,
+    "name": "Alucard",
+    "imageUrl": "https://example.com/alucard.jpg",
+    "role": "FIGHTER",
+    "skins": [
+      {
+        "id": 1,
+        "name": "Obsidian Blade",
+        "imageUrl": "https://example.com/alucard_skin1.jpg",
+        "scriptPath": "alucard_obsidian.zip"
+      }
+    ]
   }
 ]
