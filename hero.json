@@ -1,0 +1,22 @@
+{
+  "heroes": [
+    {
+      "id": "hero_001",
+      "nama": "Alucard",
+      "role": "Fighter",
+      "gambar": "https://raw.githubusercontent.com/user/repo/main/heroes/alucard.png"
+    },
+    {
+      "id": "hero_002",
+      "nama": "Fanny",
+      "role": "Assassin",
+      "gambar": "https://raw.githubusercontent.com/user/repo/main/heroes/fanny.png"
+    },
+    {
+      "id": "hero_003",
+      "nama": "Gusion",
+      "role": "Assassin",
+      "gambar": "https://raw.githubusercontent.com/user/repo/main/heroes/gusion.png"
+    }
+  ]
+}
