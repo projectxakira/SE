@@ -1,21 +1,18 @@
 {
-  "version": 1,
-  "lastUpdated": "2024-03-20",
-  "heroes": [
+  "skins": [
     {
-      "id": 1,
-      "name": "Alucard",
-      "imageUrl": "https://github.com/projectxakira/SE/blob/main/th.jpeg",
-      "role": "FIGHTER",
-      "skins": [
-        {
-          "id": 1,
-          "name": "Obsidian Blade",
-          "imageUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/skins/alucard_obsidian.jpg",
-          "scriptUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/scripts/alucard_obsidian.zip"
-        }
-      ]
+      "id": "skin_001",
+      "nama": "Legendary Warrior",
+      "hero": "Alucard",
+      "gambar": "https://raw.githubusercontent.com/user/repo/main/skins/alucard_legendary.png",
+      "file": "https://raw.githubusercontent.com/user/repo/main/skins/alucard_legendary.zip"
+    },
+    {
+      "id": "skin_002",
+      "nama": "Cyber Assassin",
+      "hero": "Fanny",
+      "gambar": "https://raw.githubusercontent.com/user/repo/main/skins/fanny_cyber.png",
+      "file": "https://raw.githubusercontent.com/user/repo/main/skins/fanny_cyber.zip"
     }
   ]
 }
-```
